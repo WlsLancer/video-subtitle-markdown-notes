@@ -1,0 +1,7 @@
+interface:
+  display_name: "Video Subtitle Markdown Notes"
+  short_description: "Create Chinese notes with local video screenshots."
+  default_prompt: "Use $video-subtitle-markdown-notes to convert this video and subtitle file into Markdown notes with local screenshots."
+
+policy:
+  allow_implicit_invocation: true
